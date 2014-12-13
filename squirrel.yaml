@@ -19,7 +19,7 @@ show_notifications_via_notification_center: false
 style:
   # color_scheme: solarized_rock
   # color_scheme: google
-  color_scheme: clean_white
+  color_scheme: xcv58
   horizontal: false
   inline_preedit: true
   corner_radius: 10
@@ -164,6 +164,22 @@ preset_color_schemes:
     hilited_candidate_label_color: 0xa0c98915
     hilited_candidate_text_color: 0xc98915
     hilited_candidate_back_color: 0xeeeeee
+
+  xcv58:
+    name: xcv58
+    author: xcv58 <i@xcv58.com>
+    back_color: 0xcfffffff
+    border_height: 16
+    border_width: 16
+    candidate_format: '%c %@ '
+    comment_text_color: 0xeeffffff
+    corner_radius: 1
+    hilited_candidate_back_color: 0x44ffffff
+    hilited_candidate_label_color: 0x0000ff
+    hilited_candidate_text_color: 0x0000ff
+    horizontal: false
+    candidate_text_color: 0x000000
+    label_color: 0x000000
 
 app_options:
   com.alfredapp.Alfred:
