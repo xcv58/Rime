@@ -185,14 +185,14 @@ preset_color_schemes:
 app_options:
   com.googlecode.iterm2:
     ascii_mode: true
-  # org.gnu.Emacs:
-  #   ascii_mode: true
+  org.gnu.Emacs:
+    ascii_mode: true
   org.vim.MacVim:
     ascii_mode: true
-  # com.github.atom:
-  #   ascii_mode: true
-  # com.sublimetext.2:
-  #   ascii_mode: true
+  com.github.atom:
+    ascii_mode: true
+  com.sublimetext.2:
+    ascii_mode: true
   com.apple.Terminal:
     ascii_mode: true
   com.google.android.studio:
